@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋  Hi my name is Harsh Hate.<br>🌍  I'm based in Mumbai.<br>✉️  You can contact me at harshhate5@gmail.com <br>🔭 I’m currently working on CarRally based in python.<br>👯 I’m looking to collaborate on Python, ReactJs projects.<br>🤝 I’m looking for help with my ML project "Brain-Age-Estimation <br>🌱 I’m currently learning Python Frameworks, ReactJS<br>💬 Ask me about C++, Python, Frontend queries.<br> 
+👋  Hi my name is Harsh Hate.<br>🌍  I'm based in Mumbai.<br>✉️  You can contact me at harshhate5@gmail.com <br>🔭 I’m currently working on Blockchain based project.<br>👯 I’m looking to collaborate on Python, ReactJs projects.<br>🤝 I’m looking for help with my ML project "Brain-Age-Estimation <br>🌱 I’m currently learning Blockchain technology, Python Frameworks, ReactJS<br>💬 Ask me about C++, Python, Frontend queries.<br> 
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh0713&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
