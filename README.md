@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile! I'm Harsh Hate, a versatile professional:<br><br>🌍 I'm based in Mumbai.<br>🔭 I’m currently working on Blockchain based project.<br>👯 I’m looking to collaborate on Python, ReactJs projects<br>🤝 I’m looking for help with my ML project "Brain-Age-Estimation<br>🌱 I’m currently learning Flask, ReactJs.<br><br>Feel free to connect via email at "harshhate5@gmail.com." Let's collaborate and create something amazing! 😊🚀<br>
+Welcome to my profile! I'm Harsh Hate, a versatile professional:<br><br>🌍 I'm based in Mumbai.<br>🔭 I’m currently working on Fullstack Project.<br>👯 I’m looking to collaborate on Python, ReactJs projects<br>🤝 I’m looking for help with the understanding of DSA<br>🌱 I’m currently learning Java, ReactJs.<br><br>Feel free to connect via email at "harshhate5@gmail.com." Let's collaborate and create something amazing! 😊🚀<br>
 
 
 ## 🌐 Socials:
